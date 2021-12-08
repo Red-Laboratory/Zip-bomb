@@ -1,4 +1,4 @@
-# 💥 Zip bomb (قنبلة صحفية) ![](https://img.shields.io/apm/l/vim-mode)
+# 💥 Zip bomb (ضغط القنبلة) ![](https://img.shields.io/apm/l/vim-mode)
 
 ![plot](./Screenshots/zipbomb_logo.jpg)
 
