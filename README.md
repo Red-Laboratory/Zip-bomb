@@ -21,7 +21,7 @@ To build a zip bomb you need to execute the python script:
 
 ## Disclaimer
 
-This zip file can hurt your system, you must understand all risks before doing anything. I don't want it to hurt anyone - it's here for analysis and tests which makes on prepared machines.
+This zip file can hurt your system, you must understand all risks before doing anything. We don't want it to hurt anyone - it's here for analysis and tests which makes on prepared machines.
 
 #
 All material in this repository is in the public domain.
